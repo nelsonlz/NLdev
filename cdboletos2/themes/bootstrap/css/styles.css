@@ -1,0 +1,44 @@
+#page {
+    padding-top: 60px;
+}
+
+#content{
+    min-height: 500px;
+    
+}
+
+
+.portlet-decoration
+{
+	padding: 3px 15px;
+	background: #B7D6E7;
+	border-left: 5px solid #6FACCF;
+}
+
+.portlet-title
+{
+                color: #000000;
+                font-size: 11px;
+                font-weight: bold;
+                line-height: 20px;
+                padding: 3px 15px;
+                text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+                text-transform: uppercase;
+}
+
+.portlet-content
+{
+	font-size:0.9em;
+	margin: 0 0 15px 0;
+	padding: 5px 18px;
+	background:#EFFDFF;
+}
+
+.portlet-content ul
+{
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
